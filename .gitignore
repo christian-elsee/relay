@@ -4,3 +4,7 @@
 !README.md
 !go.mod
 !main.go
+!cmd
+!cmd/**
+!internal
+!internal/**
