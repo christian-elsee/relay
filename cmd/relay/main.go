@@ -5,7 +5,7 @@ import (
 	"context"
 	"log/slog"
 
-	"github.com/scratch/golang-hello-world/internal/app"
+	"github.com/christian-elsee/relay/internal/app"
 )
 
 func main() {
